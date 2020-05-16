@@ -40,7 +40,7 @@ body {
     top: 345px;
     right: 30px;
   }
-
+  &.heart::before,
   &.heart:after {
     content: "\2665";
     color: red;
